@@ -21,8 +21,9 @@ AI Developer
 - 🚮Learning Experience
     - 2012 y. - Today
 - 💻Environment
-    - Linux
-    - Windows
+    - Linux (Server)
+    - MacOS (M4 Macbook Air 32GB)
+    - Windows (Razer Blade 17 2022 RZ09-0406)
 
 ### 🚩Other
 - 📫 Connect Me: chou.addison@gmail.com

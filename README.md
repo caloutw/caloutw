@@ -19,7 +19,7 @@ Programers
 - 🚮 Experience
     - 2012 y. - Today
 - 💻 Develop Device.
-    - Linux (privte VPS)
+    - Linux (private VPS - With [CCP linux](https://github.com/Calou-Code-Platform/remosh))
     - MacOS (Macbook Air M4 32GB)
     - Windows (Razer Blade 17 2022 RZ09-0406)
 

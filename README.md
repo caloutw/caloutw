@@ -3,17 +3,17 @@
 # Calou Zhou
 
 A university student in Taiwan<br>
-Programers
+Programers.
 </div>
 
 -----
 
 ### ✨ About Me
-- 📃 Languages Used
+- 📃 Languages
     - Node.js
     - Python (unstable)
 - ⭐ Main Research
-    - Artificial Intelligence.
+    - GenAI (like LLM Fine-tune).
     - Website Design.
     - Script Programming.
 - 🚮 Experience

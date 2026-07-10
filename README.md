@@ -20,9 +20,9 @@ Programers.
     - 2012 y. - Today
 - 💻 Develop Device.
     - Linux (private VPS - With [CCP linux](https://github.com/Calou-Code-Platform/remosh))
+    - Ubuntu (ROG Flow Z13 2025 128GB)
     - MacOS (Macbook Air M4 32GB)
-    - Windows (Razer Blade 17 2022 RZ09-0406)
+    - Windows (ROG Flow Z13 2025 128GB)
 
 ### 🚩Other
 - 📫 Connect Me: chou.addison@gmail.com
-- ⛔ Not Accepting: Translation projects and spam messages.

@@ -11,6 +11,7 @@ Programers.
 ### ✨ About Me
 - 📃 Languages
     - Node.js
+    - Dotnet (C#)
     - Python (unstable)
 - ⭐ Main Research
     - GenAI (like LLM Fine-tune).
